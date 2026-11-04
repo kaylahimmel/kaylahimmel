@@ -1,11 +1,4 @@
-<!-- Placeholder logo: replace assets/bespoke-bits-light.svg and assets/bespoke-bits-dark.svg with the real logo. -->
-<!-- Placeholder link: point both Bespoke Bits links at the website once it is live. -->
-<a href="https://github.com/bespokebits">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/bespoke-bits-dark.svg">
-    <img alt="Bespoke Bits" src="./assets/bespoke-bits-light.svg" width="400">
-  </picture>
-</a>
+# Welcome
 
 I'm the co-founder of [Bespoke Bits](https://github.com/bespokebits), a small software development studio in Dublin, OH.
 I'm a Senior Software Engineer with a focus on building accessible, responsive websites and mobile apps, with a background in design.
